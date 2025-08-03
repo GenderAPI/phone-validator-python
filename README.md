@@ -1,4 +1,3 @@
-```markdown
 # 📞 Phone Number Validation & Formatter API (Python SDK)
 
 The `phone-validator` library uses the official [GenderAPI Phone Number Validation & Formatter API](https://genderapi.io) to validate and format phone numbers from over 240 countries.
@@ -122,4 +121,3 @@ See the [LICENSE](./LICENSE) file for details.
 ## 🌍 Links
 
 - 🧪 [API Playground](https://www.genderapi.io/docs-phone-validation-formatter-api)
-```

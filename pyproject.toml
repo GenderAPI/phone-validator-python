@@ -3,8 +3,8 @@ requires = ["setuptools>=61.0", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "phone-validator"
-version = "1.0.0"
+name = "genderapi-phone-validator"
+version = "1.0.1"
 description = "Official Python SDK for validating and formatting phone numbers using the GenderAPI.io service."
 readme = "README.md"
 requires-python = ">=3.7"
