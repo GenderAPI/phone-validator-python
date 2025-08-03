@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "genderapi-phone-validator"
-version = "1.0.1"
+version = "1.0.2"
 description = "Official Python SDK for validating and formatting phone numbers using the GenderAPI.io service."
 readme = "README.md"
 requires-python = ">=3.7"

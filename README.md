@@ -1,6 +1,6 @@
 # 📞 Phone Number Validation & Formatter API (Python SDK)
 
-The `phone-validator` library uses the official [GenderAPI Phone Number Validation & Formatter API](https://genderapi.io) to validate and format phone numbers from over 240 countries.
+The `phone-validator` library uses the official [GenderAPI Phone Number Validation & Formatter API](https://www.genderapi.io) to validate and format phone numbers from over 240 countries.
 
 Whether your users enter phone numbers in various formats (e.g., `12128675309`, `+1 212 867 5309`, `001–212–867–5309`), this SDK intelligently detects, validates, and converts them into the standardized E.164 format (e.g., `+12128675309`).
 
